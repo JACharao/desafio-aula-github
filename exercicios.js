@@ -103,5 +103,5 @@
 //numeroAleatorio = parseInt(Math.random() * 1000 + 1)
 //console.log(numeroAleatorio)
 
-let nome = 'João'
+let nome = 'Clarice'
 console.log(nome);
